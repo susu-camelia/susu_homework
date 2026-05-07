@@ -6,3 +6,5 @@
 第二步：查看OSF上的数据，了解数据构成。
 
 第三步：根据每个具体的实验数据，在R里复现文献的实验结果。
+
+第四步：确认复现内容：Stroop 与 task-switching 的描述统计, Stroop主效应，task-switch cost 主效应，及交互作用。
