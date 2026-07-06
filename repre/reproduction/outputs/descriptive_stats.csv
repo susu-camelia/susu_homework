@@ -1,0 +1,7 @@
+condition,RT_mean,RT_sd,ACC_mean,ACC_sd
+Stroop-Incongruent,691.22,144.717,0.881,0.093
+Stroop-Congruent,557.475,69.327,0.971,0.024
+TS-Low-Repeat,766.534,142.849,0.942,0.036
+TS-Low-Switch,956.659,180.879,0.93,0.047
+TS-High-Repeat,778.088,129.05,0.946,0.037
+TS-High-Switch,947.726,156.982,0.924,0.05
